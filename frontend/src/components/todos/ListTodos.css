@@ -1,0 +1,13 @@
+#list {
+    display: flex;
+    justify-content: center;
+    
+    align-items: center;
+    width: 100%;
+    margin-bottom: -50px;
+}
+
+.regLink{
+    color: #2196F3;
+    text-align: right;
+}

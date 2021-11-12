@@ -1,0 +1,32 @@
+.AuthPage {
+    text-align: center;
+    max-width: 300px;
+    margin: 0 auto;
+    margin-top: 200px;
+    margin-bottom: 150px;
+    padding: 35px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+}
+
+.AuthPage h4 {
+    text-align: left;
+}
+
+.authBtn {
+    text-transform: capitalize;
+}
+
+.authBtn:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.validate {
+    font-size: 1rem;
+}
+
+@media (min-width: 768px) {
+    #content {
+        margin-left: 180px;
+    }
+}
